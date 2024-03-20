@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Task 1,2\" />
+    <None Remove="Task 3,4\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Task 1,2\" />
+    <Folder Include="Task 3,4\" />
+  </ItemGroup>
 </Project>

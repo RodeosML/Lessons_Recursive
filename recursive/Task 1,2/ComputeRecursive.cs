@@ -19,8 +19,8 @@
         {
             if (degree == 1)
                 return number;
-            else
-                return number * increaseNumberToPower(number, degree - 1);
+
+            return number * increaseNumberToPower(number, degree - 1);
         }
 
     }
@@ -32,8 +32,8 @@
         {
             if (number < 10)
                 return number;
-            else
-                return number % 10 + сalculateSumDigitsNumber(number / 10);
+
+            return number % 10 + сalculateSumDigitsNumber(number / 10);
         }
     }
 }

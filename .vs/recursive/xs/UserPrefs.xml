@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8F3D708C-4EF3-4513-B4BA-4A5CA123B5D6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="recursive/ComputeRecursive.cs">
+    <Files>
+      <File FileName="recursive/ComputeRecursive.cs" Line="23" Column="13" />
+      <File FileName="TestRecursive/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="recursive">
+            <Node name="recursive" expanded="True">
+              <Node name="ComputeRecursive.cs" selected="True" />
+            </Node>
+            <Node name="TestRecursive" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.recursive PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
