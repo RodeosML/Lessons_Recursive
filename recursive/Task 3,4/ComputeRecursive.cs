@@ -7,7 +7,6 @@ namespace recursive.Task34
     {
 		public static int computeLengthList(List<string> list)
 		{
-
             try
             {
                 list.RemoveAt(0);
