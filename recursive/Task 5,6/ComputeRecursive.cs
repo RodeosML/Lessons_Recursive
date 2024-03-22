@@ -3,6 +3,7 @@ using System.Linq;
 
 namespace recursive.Task56
 {
+    //5. Печать только чётных значений из списка
     public class Recursive_FifthTask
     {
         public static void printEvenValuesFromList(List<int> listOfnumbers)
@@ -20,6 +21,7 @@ namespace recursive.Task56
         }
     }
 
+    //6. Печать элементов списка с чётными индексами
     public class Recursive_SixthTask
     {
         public static void printItemEvenIndexFromList(List<string> listOfElements)
