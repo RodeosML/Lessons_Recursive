@@ -28,3 +28,13 @@
 /Users/rodion/Projects/Lessons_Recursive/recursive/obj/Debug/net7.0/recursive.pdb
 /Users/rodion/Projects/Lessons_Recursive/recursive/obj/Debug/net7.0/recursive.genruntimeconfig.cache
 /Users/rodion/Projects/Lessons_Recursive/recursive/obj/Debug/net7.0/ref/recursive.dll
+/Users/rodion/Projects/Lessons_Recursive/recursive/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/Users/rodion/Projects/Lessons_Recursive/recursive/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/rodion/Projects/Lessons_Recursive/recursive/bin/Debug/net7.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/rodion/Projects/Lessons_Recursive/recursive/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/rodion/Projects/Lessons_Recursive/recursive/bin/Debug/net7.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/rodion/Projects/Lessons_Recursive/recursive/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/rodion/Projects/Lessons_Recursive/recursive/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/rodion/Projects/Lessons_Recursive/recursive/bin/Debug/net7.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/rodion/Projects/Lessons_Recursive/recursive/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/rodion/Projects/Lessons_Recursive/recursive/obj/Debug/net7.0/recursive.csproj.CopyComplete

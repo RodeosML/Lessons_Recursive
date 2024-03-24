@@ -5,16 +5,22 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <UserSecretsId>36b3530a-8725-47c9-b5b1-48cb9db8f515</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
     <None Remove="Task 1,2\" />
     <None Remove="Task 3,4\" />
     <None Remove="Task 5,6\" />
+    <None Remove="Task 7\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Task 1,2\" />
     <Folder Include="Task 3,4\" />
     <Folder Include="Task 5,6\" />
+    <Folder Include="Task 7\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="5.0.0" />
   </ItemGroup>
 </Project>
