@@ -26,7 +26,7 @@ namespace recursive.Task8
             }
 
             foreach (var subFolder in folder.GetDirectories())
-                recursiveTraversal(subFolder);
+                printTraversal(subFolder);
         }
 
     }
