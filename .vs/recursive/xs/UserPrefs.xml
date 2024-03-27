@@ -1,23 +1,26 @@
 ﻿<Properties StartupConfiguration="{8F3D708C-4EF3-4513-B4BA-4A5CA123B5D6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="recursive/Task 7,8/ComputeRecursive.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="recursive/Task 7/ComputeRecursive.cs">
     <Files>
+      <File FileName="recursive/Task 7,8/ComputeRecursive.cs" Line="42" Column="85" />
+      <File FileName="TestRecursive/UnitTest7.cs" Line="17" Column="42" />
       <File FileName="recursive/Program.cs" Line="1" Column="1" />
-      <File FileName="recursive/Task 7,8/ComputeRecursive.cs" Line="37" Column="14" />
-      <File FileName="recursive/Task 5,6/ComputeRecursive.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="recursive" expanded="True">
-            <Node name="recursive">
-              <Node name="Task 1,2" expanded="True" />
-              <Node name="Task 3,4" expanded="True" />
-              <Node name="Task 7,8" expanded="True">
+          <Node name="recursive">
+            <Node name="recursive" expanded="True">
+              <Node name="Task 5,6" expanded="True" />
+              <Node name="Task 7" expanded="True">
                 <Node name="ComputeRecursive.cs" selected="True" />
               </Node>
             </Node>
+            <Node name="TestRecursive" expanded="True" />
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
